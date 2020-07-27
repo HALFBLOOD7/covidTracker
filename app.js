@@ -5,9 +5,9 @@ async function getdata(){
    var death = document.querySelector(".numbers3");
    var recover = document.querySelector(".numbers2");
    
-   var newConfirm = document.querySelector("#newConfirm");
-   var newDeath = document.querySelector("#newDeath");
-   var newRecover = document.querySelector("#newRecover");
+   var newConfirm = document.querySelector("#newConfirmed");
+   var newDeath = document.querySelector("#newDeaths");
+   var newRecover = document.querySelector("#newRecovered");
    
    var title = document.querySelector(".title")
    var country = input.value;
